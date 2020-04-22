@@ -1,0 +1,30 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-bottom: 24px;*/
+    border-spacing: 0;
+    border-bottom: 1px solid black;
+    border-right: 2px solid black;
+    border-left: 1px solid black;
+    border-top: 2px solid black;
+}
+table th {
+    padding: 3px 10px;
+    border-top: none;
+    border-left: 1px solid black;
+    border-right: none;
+    border-bottom: 1px solid black;
+}
+table td {
+    padding: 3px 10px;
+    border-top: none;
+    border-left: 1px solid black;
+    /*border-right: 1px dashed black;*/
+    border-bottom: 1px solid black;
+    /*border-right: none;*/
+}
+
+
+/* Add border for the last row of the table.           */
+/*      (Might be of use for table footnotes, later).  */
+/* tr:last-child td { border-top: 2px solid black; }   */
