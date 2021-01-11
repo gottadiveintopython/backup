@@ -5,7 +5,6 @@
 - [Twitter](https://twitter.com/dive_into_py)
 - [Qiita](https://qiita.com/gotta_dive_into_python)
 - [Youtube](https://www.youtube.com/channel/UCcu_WzusAoPX2cyi8K2N-0g)
-- [Discord](https://discord.gg/UCQwfrb)
 - [E-mail](mailto:flow4re2c@gmail.com)
 
 ### Androidアプリ
